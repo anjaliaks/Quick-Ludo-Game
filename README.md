@@ -2,4 +2,4 @@
 This is a quick ludo game using HTML, CSS and JavaScript.
 
 # Check it out here-
-Link - http://anjaliaks.github.io/Quick-Ludo-Game/
+Link - https://anjaliaks.github.io/Quick-Ludo-Game/
